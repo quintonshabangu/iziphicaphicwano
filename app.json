@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "iziphicaphicwano",
+    "icon": "./media/potrait.png",
+    "version": "1.0.0",
+    "slug": "iziphicaphicwano",
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "com.zululand.iziphicaphicwano"
+    },
+    "android": {
+      "package": "com.zululand.iziphicaphicwano"
+    }
+  }
+}
